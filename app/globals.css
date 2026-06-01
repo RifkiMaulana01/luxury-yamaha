@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #ebede8; /* Warna Sage Platinum: Hijau keabuan sangat cerah & mewah */
+  color: #1c2e24; /* Teks utama Hijau Pinus Gelap agar kontras & tajam */
+  overflow-x: hidden;
+}
